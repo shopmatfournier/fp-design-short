@@ -1,0 +1,20 @@
+# Ignore IDEA project files
+*.iml
+/.idea
+
+# Ignore generated stuff
+*/target
+/target
+*/project/target
+*/project/project/target
+/docs
+.DS_Store
+sdk/project
+swagger.out
+consumers
+.bloop
+.metals
+/project/metals.sbt
+out/
+/.vscode
+*.code-workspace
